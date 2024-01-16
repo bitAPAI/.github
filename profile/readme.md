@@ -4,15 +4,15 @@ Welcome to Corcel, providing seamless integration with the Bittensor network. We
 
 ## Features
 
-- **API Integration**: Easily interact with the Bittensor network using our well-documented API interface at [api.bitapai.io/docs](https://api.bitapai.io/docs).
-- **User-Friendly Apps**: Explore our collection of user-friendly apps showcasing the capabilities of the Bittensor network. (eg. [ChatApp](https://chat.bitapai.io))
-- **Claim Your API Keys**: Visit [app.bitapai.io](https://app.bitapai.io) to claim your API keys and get started with integrating Bittensor into your applications.
+- **API Integration**: Easily interact with the Bittensor network using our well-documented API interface at [docs.corcel.io](https://docs.corcel.io).
+- **User-Friendly Apps**: Explore our collection of user-friendly apps showcasing the capabilities of the Bittensor network. (eg. [ChatApp](https://app.corcel.io/chat))
+- **Claim Your API Keys**: Visit [corcel.io](https://app.corcel.io/dashboard/api-keys) to claim your API keys and get started with integrating Bittensor into your applications.
 
 ## Getting Started
 
-To get started with the Corcel API, please refer to our [API Documentation](https://api.bitapai.io/docs) for detailed information on endpoints, request formats, and authentication requirements.
+To get started with the Corcel API, please refer to our [API Documentation](https://docs.corcel.io) for detailed information on endpoints, request formats, and authentication requirements.
 
-If you're an end-user interested in our apps, head over to [app.bitapai.io](https://app.bitapai.io) to explore and experience the power of the Bittensor network firsthand and claim your API keys.
+If you're an end-user interested in our apps, head over to [corcel.io](https://app.corcel.io/dashboard/api-keys) to explore and experience the power of the Bittensor network firsthand and claim your API keys.
 
 ## Contributing
 
