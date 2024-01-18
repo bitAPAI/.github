@@ -22,7 +22,7 @@ We welcome the following types of contributions:
 To get started, fork the project on GitHub and clone it locally on your machine. Then, create a new branch to work on your changes.
 
 
-For example for thew Corcel Chat application:
+For example for the Corcel Chat application:
 ```
 git clone https://github.com/BitAPAI/chat.bitapai.io.git
 cd chat.bitapai.io
